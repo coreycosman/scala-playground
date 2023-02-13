@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: Nonzero exit code: 128[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.package$.error(package.scala:30)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.BasicIO$Streamed$.next$1(BasicIO.scala:53)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.BasicIO$Streamed$.$anonfun$apply$4(BasicIO.scala:56)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.ProcessBuilderImpl$AbstractBuilder.lineStream(ProcessBuilderImpl.scala:150)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.ProcessBuilderImpl$AbstractBuilder.lineStream(ProcessBuilderImpl.scala:113)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.ProcessBuilder.lines(ProcessBuilder.scala:182)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.ProcessBuilder.lines$(ProcessBuilder.scala:182)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.process.ProcessBuilderImpl$AbstractBuilder.lines(ProcessBuilderImpl.scala:91)[0m
+[0m[[0m[31merror[0m] [0m[0m	at $ecc8528ed614af3374f9$.$anonfun$$sbtdef$1(/Users/coreycosman/sbt-tutorial/build.sbt:16)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$3.$anonfun$apply$2(Transform.scala:46)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(Transform.scala:68)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:291)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.FutureTask.run(FutureTask.java:266)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.lang.Thread.run(Thread.java:748)[0m
+[0m[[0m[31merror[0m] [0m[0m([31mgitCommitCountTask[0m) Nonzero exit code: 128[0m

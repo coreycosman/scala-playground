@@ -1,0 +1,4 @@
+[debug] [sbt-tutorial-test] Classpath dependencies List()
+[debug] [sbt-tutorial-test] Dependencies from configurations List(sbt-tutorial)
+[debug] Bloop wrote the configuration of project 'sbt-tutorial-test' to '/Users/coreycosman/sbt-tutorial/.bloop/sbt-tutorial-test.json'
+[success] Generated .bloop/sbt-tutorial-test.json

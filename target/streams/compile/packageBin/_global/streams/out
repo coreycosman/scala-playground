@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/coreycosman/sbt-tutorial/target/scala-2.11/sbt-tutorial_2.11-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSbt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/coreycosman/sbt-tutorial/target/scala-2.11/classes/HelloSbt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSbt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/coreycosman/sbt-tutorial/target/scala-2.11/classes/HelloSbt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloSbt$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/coreycosman/sbt-tutorial/target/scala-2.11/classes/HelloSbt$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

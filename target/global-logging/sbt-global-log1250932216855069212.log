@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testTask, Some(c998b1f6-0b55-42d8-a9de-39199f56709d), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: testTask (similar: tasks)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: testTask[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: testTask (similar: test, testQuick, tags)[0m
+[0m[[0m[31merror[0m] [0m[0mtestTask[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

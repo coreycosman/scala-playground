@@ -1,0 +1,1293 @@
+2023.02.13 11:28:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/lsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.02.13 11:28:29 INFO  logging to file /Users/coreycosman/sbt-tutorial/.metals/metals.log[0m
+2023.02.13 11:28:29 INFO  Started: Metals version 0.11.10 in workspace '/Users/coreycosman/sbt-tutorial' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.13 11:28:35 INFO  time: initialize in 5.72s[0m
+2023.02.13 11:28:50 INFO  no build target found for /Users/coreycosman/sbt-tutorial/src/main/scala/hello.scala. Using presentation compiler with project's scala-library version: 3.2.1[0m
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.02.13 11:28:50 WARN  Build server is not auto-connectable.[0m
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2023.02.13 11:28:50 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/hello.scala[0m
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+Feb 13, 2023 11:28:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 79
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 90
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 105
+Feb 13, 2023 11:28:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.55s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.65s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.83s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 2.14s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.84s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.61s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 1.82s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.66s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.54s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.56s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.29s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.6s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.58s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.96s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.63s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.53s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.8s[0m
+2023.02.13 11:28:54 INFO  time: code lens generation in 3.48s[0m
+2023.02.13 11:29:15 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/hello.scala[0m
+2023.02.13 11:30:42 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+Feb 13, 2023 11:30:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 370
+2023.02.13 11:31:04 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:32:57 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/datamodel.scala[0m
+2023.02.13 11:33:38 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/datamodel.scala[0m
+2023.02.13 11:40:06 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager..scala[0m
+2023.02.13 11:40:08 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager..scala[0m
+2023.02.13 11:40:22 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager..scala[0m
+2023.02.13 11:40:24 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager..scala[0m
+2023.02.13 11:41:26 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:43:41 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:44:34 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:45:39 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:46:40 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:46:43 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:46:45 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:46:48 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:46:56 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:48:44 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:49:18 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:49:40 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:28 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:29 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:29 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:29 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:48 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:54 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:50:59 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:51:05 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:51:32 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:52:40 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:52:46 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:56:29 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+Feb 13, 2023 11:56:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 973
+2023.02.13 11:57:37 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+Feb 13, 2023 11:58:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1065
+2023.02.13 11:58:18 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:58:28 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:59:05 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 11:59:57 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 11:59:57 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 12:00:18 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 12:00:18 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 12:01:32 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:09 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:22 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:27 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:28 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+Feb 13, 2023 12:02:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.UnsupportedOperationException: tail of empty list
+java.util.concurrent.CompletionException: java.lang.UnsupportedOperationException: tail of empty list
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.UnsupportedOperationException: tail of empty list
+	at scala.collection.immutable.Nil$.tail(List.scala:664)
+	at scala.collection.immutable.Nil$.tail(List.scala:661)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.$anonfun$endPosOfTree$1(CreateCompanionObjectCodeAction.scala:77)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.endPosOfTree(CreateCompanionObjectCodeAction.scala:75)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.$anonfun$contribute$5(CreateCompanionObjectCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.$anonfun$contribute$4(CreateCompanionObjectCodeAction.scala:58)
+	at scala.Option$WithFilter.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.$anonfun$contribute$2(CreateCompanionObjectCodeAction.scala:56)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.CreateCompanionObjectCodeAction.$anonfun$contribute$1(CreateCompanionObjectCodeAction.scala:55)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.02.13 12:02:29 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:30 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:42 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:02:56 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:03:44 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:03:48 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:04:01 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:05:09 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager.scala[0m
+2023.02.13 12:06:03 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala[0m
+2023.02.13 12:08:38 WARN  no build target for: /Users/coreycosman/sbt-tutorial/src/main/scala/taskmanager.scala[0m
+2023.02.13 12:08:44 WARN  no build target for: /Users/coreycosman/sbt-tutorial/build.sbt[0m
+2023.02.13 12:08:45 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals8064601422011996182/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 12:08:46 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/metals.sbt[0m
+2023.02.13 12:08:46 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/project/metals.sbt[0m
+2023.02.13 12:08:46 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 12:08:48 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 12:08:52 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 12:08:54 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 12:09:03 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 12:09:03 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 12:09:14 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 12:09:14 INFO  [success] Total time: 11 s, completed 13-Feb-2023 12:09:15 PM[0m
+2023.02.13 12:09:19 INFO  [info] loading settings for project sbt-tutorial from build.sbt ...[0m
+2023.02.13 12:09:19 INFO  [info] set current project to sbt-tutorial (in build file:/Users/coreycosman/sbt-tutorial/)[0m
+2023.02.13 12:09:22 INFO  [success] Generated .bloop/sbt-tutorial-test.json[0m
+2023.02.13 12:09:22 INFO  [success] Generated .bloop/sbt-tutorial.json[0m
+2023.02.13 12:09:22 INFO  [success] Total time: 3 s, completed 13-Feb-2023 12:09:22 PM[0m
+2023.02.13 12:09:22 INFO  time: ran 'sbt bloopInstall' in 36s[0m
+2023.02.13 12:09:22 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:09:22 INFO  Setting up current java home /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home in /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:09:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:09:53 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:09:53 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:09:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:09:58 INFO  time: Connected to build server in 35s[0m
+2023.02.13 12:09:58 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 12:09:58 INFO  time: Imported build in 0.4s[0m
+2023.02.13 12:10:05 ERROR Failed to fetch mtags for 2.11.6
+Error downloading org.scalameta:mtags_2.11.6:0.11.10
+  not found: /Users/coreycosman/.ivy2/local/org.scalameta/mtags_2.11.6/0.11.10/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom[0m
+2023.02.13 12:10:08 ERROR Failed to fetch mtags for 2.11.6
+Error downloading org.scalameta:mtags_2.11.6:0.11.10
+  not found: /Users/coreycosman/.ivy2/local/org.scalameta/mtags_2.11.6/0.11.10/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom[0m
+2023.02.13 12:10:17 ERROR Failed to fetch mtags for 2.11.6
+Error downloading org.scalameta:mtags_2.11.6:0.11.10
+  not found: /Users/coreycosman/.ivy2/local/org.scalameta/mtags_2.11.6/0.11.10/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/public/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom
+  not found: https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/mtags_2.11.6/0.11.10/mtags_2.11.6-0.11.10.pom[0m
+2023.02.13 12:10:17 INFO  No mtags for 2.11.6.[0m
+2023.02.13 12:10:17 INFO  time: code lens generation in 4.68s[0m
+2023.02.13 12:10:17 INFO  time: code lens generation in 4.63s[0m
+Feb 13, 2023 12:10:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+Feb 13, 2023 12:10:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1605
+Feb 13, 2023 12:10:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1606
+2023.02.13 12:10:21 INFO  time: indexed workspace in 22s[0m
+2023.02.13 12:10:21 INFO  No mtags for 2.11.6.[0m
+2023.02.13 12:10:21 WARN  unsupported Scala 2.11.6[0m
+2023.02.13 12:10:21 INFO  No mtags for 2.11.6.[0m
+2023.02.13 12:10:21 WARN  unsupported Scala 2.11.6[0m
+2023.02.13 12:10:23 INFO  compiling sbt-tutorial (3 scala sources)[0m
+2023.02.13 12:10:52 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals3131575218112806415/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 12:10:56 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 12:10:56 INFO  time: compiled sbt-tutorial in 33s[0m
+2023.02.13 12:10:58 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 12:10:59 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 12:11:01 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 12:11:01 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 12:11:06 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 12:11:06 INFO  [success] Total time: 4 s, completed 13-Feb-2023 12:11:06 PM[0m
+2023.02.13 12:11:09 INFO  [info] loading settings for project sbt-tutorial from build.sbt ...[0m
+2023.02.13 12:11:09 INFO  [info] set current project to sbt-tutorial (in build file:/Users/coreycosman/sbt-tutorial/)[0m
+2023.02.13 12:11:11 INFO  [success] Generated .bloop/sbt-tutorial-test.json[0m
+2023.02.13 12:11:11 INFO  [success] Generated .bloop/sbt-tutorial.json[0m
+2023.02.13 12:11:11 INFO  [success] Total time: 1 s, completed 13-Feb-2023 12:11:11 PM[0m
+2023.02.13 12:11:11 INFO  time: ran 'sbt bloopInstall' in 19s[0m
+2023.02.13 12:11:11 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 12:11:11 INFO  Shut down connection with build server.[0m
+2023.02.13 12:11:11 INFO  Shut down connection with build server.[0m
+2023.02.13 12:11:11 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:11:11 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:11:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:11:11 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:11:11 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:11:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:11:11 INFO  time: Connected to build server in 0.3s[0m
+2023.02.13 12:11:11 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 12:11:12 INFO  time: Imported build in 0.13s[0m
+2023.02.13 12:11:13 INFO  time: indexed workspace in 0.78s[0m
+2023.02.13 12:16:56 INFO  compiling sbt-tutorial (3 scala sources)[0m
+2023.02.13 12:16:58 INFO  skipping build import with status 'Installed'[0m
+2023.02.13 12:16:59 INFO  Deduplicating compilation of sbt-tutorial from bsp client 'Metals 0.11.10' (since 5m 47.891s)[0m
+2023.02.13 12:16:59 INFO  compiling sbt-tutorial (3 scala sources)[0m
+2023.02.13 12:17:24 INFO  time: compiled sbt-tutorial in 24s[0m
+2023.02.13 12:17:39 INFO  compiling sbt-tutorial (3 scala sources)[0m
+Feb 13, 2023 12:17:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2023.02.13 12:17:40 INFO  time: compiled sbt-tutorial in 1.18s[0m
+Feb 13, 2023 12:19:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 13, 2023 12:19:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.13 12:19:56 INFO  compiling sbt-tutorial (3 scala sources)[0m
+2023.02.13 12:20:02 INFO  time: compiled sbt-tutorial in 6.31s[0m
+2023.02.13 12:21:20 INFO  compiling sbt-tutorial-test (1 scala source)[0m
+2023.02.13 12:21:26 INFO  time: compiled sbt-tutorial-test in 5.47s[0m
+2023.02.13 12:21:39 INFO  time: code lens generation in 1.03s[0m
+2023.02.13 12:21:57 INFO  compiling sbt-tutorial-test (1 scala source)[0m
+2023.02.13 12:22:01 INFO  time: compiled sbt-tutorial-test in 3.26s[0m
+2023.02.13 12:25:17 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals1194798823810120606/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 12:25:19 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 12:25:20 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 12:25:23 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 12:25:25 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 12:25:25 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 12:25:30 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 12:25:30 INFO  [success] Total time: 5 s, completed 13-Feb-2023 12:25:30 PM[0m
+2023.02.13 12:25:31 INFO  [info] loading settings for project sbt-tutorial from build.sbt ...[0m
+2023.02.13 12:25:31 INFO  [info] set current project to sbt-tutorial (in build file:/Users/coreycosman/sbt-tutorial/)[0m
+2023.02.13 12:25:39 INFO  [success] Generated .bloop/sbt-tutorial-test.json[0m
+2023.02.13 12:25:39 INFO  [success] Generated .bloop/sbt-tutorial.json[0m
+2023.02.13 12:25:39 INFO  [success] Total time: 7 s, completed 13-Feb-2023 12:25:39 PM[0m
+2023.02.13 12:25:39 INFO  time: ran 'sbt bloopInstall' in 22s[0m
+2023.02.13 12:25:39 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 12:25:39 INFO  Shut down connection with build server.[0m
+2023.02.13 12:25:39 INFO  Shut down connection with build server.[0m
+2023.02.13 12:25:39 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:25:39 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:25:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:25:39 INFO  Attempting to connect to the build server...[0m
+2023.02.13 12:25:39 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 12:25:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 12:25:39 INFO  time: Connected to build server in 0.23s[0m
+2023.02.13 12:25:39 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 12:25:39 INFO  time: Imported build in 0.12s[0m
+2023.02.13 12:25:41 INFO  time: indexed workspace in 1.37s[0m
+2023.02.13 12:25:41 INFO  compiling sbt-tutorial (3 scala sources)[0m
+2023.02.13 12:25:44 INFO  time: compiled sbt-tutorial in 2.25s[0m
+2023.02.13 12:25:44 INFO  compiling sbt-tutorial-test (1 scala source)[0m
+2023.02.13 12:25:45 INFO  time: compiled sbt-tutorial-test in 1.88s[0m
+Feb 13, 2023 1:32:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2244
+Feb 13, 2023 1:32:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2247
+Feb 13, 2023 1:32:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2249
+Feb 13, 2023 1:32:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2361
+Feb 13, 2023 1:32:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:32:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value testTaskKey is not a method
+scala.ScalaReflectionException: value testTaskKey is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:32:51 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:32:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value testTaskKey is not a method
+scala.ScalaReflectionException: value testTaskKey is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:32:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:32:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value testTaskKey is not a method
+scala.ScalaReflectionException: value testTaskKey is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:32:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:32:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value testTaskKey is not a method
+scala.ScalaReflectionException: value testTaskKey is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:32:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:32:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value testTaskKey is not a method
+scala.ScalaReflectionException: value testTaskKey is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:33:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2486
+2023.02.13 13:34:13 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals987681678997234526/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 13:34:15 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 13:34:16 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 13:34:19 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 13:34:21 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 13:34:21 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 13:34:26 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 13:34:26 INFO  [success] Total time: 4 s, completed 13-Feb-2023 1:34:26 PM[0m
+2023.02.13 13:34:28 ERROR /Users/coreycosman/sbt-tutorial/build.sbt:14: error: not found: value testPrintTask[0m
+2023.02.13 13:34:28 ERROR testPrintTask := {[0m
+2023.02.13 13:34:28 ERROR ^[0m
+2023.02.13 13:34:28 INFO  [error] Type error in expression[0m
+2023.02.13 13:34:28 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+2023.02.13 13:34:28 INFO  time: ran 'sbt bloopInstall' in 14s[0m
+2023.02.13 13:34:28 ERROR sbt command failed: /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals987681678997234526/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+2023.02.13 13:34:28 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 13:34:28 INFO  Shut down connection with build server.[0m
+2023.02.13 13:34:28 INFO  Shut down connection with build server.[0m
+2023.02.13 13:34:28 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:34:28 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:34:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:34:28 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:34:28 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:34:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:34:28 INFO  time: Connected to build server in 0.2s[0m
+2023.02.13 13:34:28 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 13:34:28 INFO  time: Imported build in 0.16s[0m
+2023.02.13 13:34:29 INFO  time: indexed workspace in 0.71s[0m
+2023.02.13 13:36:16 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:36:54 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:37:29 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals3694901848668141606/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 13:37:31 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 13:37:31 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 13:37:33 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 13:37:35 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 13:37:35 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 13:37:39 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 13:37:39 INFO  [success] Total time: 4 s, completed 13-Feb-2023 1:37:40 PM[0m
+2023.02.13 13:37:46 ERROR /Users/coreycosman/sbt-tutorial/build.sbt:14: error: not found: value testPrintTask[0m
+2023.02.13 13:37:46 ERROR testPrintTask := {[0m
+2023.02.13 13:37:46 ERROR ^[0m
+2023.02.13 13:37:47 INFO  [error] Type error in expression[0m
+2023.02.13 13:37:47 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+2023.02.13 13:37:47 INFO  time: ran 'sbt bloopInstall' in 18s[0m
+2023.02.13 13:37:47 ERROR sbt command failed: /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals3694901848668141606/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+2023.02.13 13:37:47 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 13:37:47 INFO  Shut down connection with build server.[0m
+2023.02.13 13:37:47 INFO  Shut down connection with build server.[0m
+2023.02.13 13:37:47 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:37:47 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:37:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:37:47 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:37:47 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:37:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:37:47 INFO  time: Connected to build server in 0.2s[0m
+2023.02.13 13:37:47 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 13:37:47 INFO  time: indexed workspace in 0.63s[0m
+Feb 13, 2023 1:38:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2899
+2023.02.13 13:39:07 INFO  skipping build import with status 'Failed'[0m
+2023.02.13 13:39:41 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals4205048706666800133/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 13:39:43 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 13:39:44 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 13:39:46 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 13:39:48 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 13:39:48 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 13:39:54 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 13:39:54 INFO  [success] Total time: 5 s, completed 13-Feb-2023 1:39:55 PM[0m
+2023.02.13 13:40:04 ERROR /Users/coreycosman/sbt-tutorial/build.sbt:16: warning: method lines in trait ProcessBuilder is deprecated (since 2.11.0): use lineStream instead[0m
+2023.02.13 13:40:04 ERROR   val branch = scala.sys.process.Process("git symbolic-ref -q HEAD").lines.head.replace("refs/heads/","")[0m
+2023.02.13 13:40:04 ERROR                                                                      ^[0m
+2023.02.13 13:40:04 ERROR /Users/coreycosman/sbt-tutorial/build.sbt:17: warning: method lines in trait ProcessBuilder is deprecated (since 2.11.0): use lineStream instead[0m
+2023.02.13 13:40:04 ERROR   val commitCount = scala.sys.process.Process(s"git rev-list --count $branch").lines.head[0m
+2023.02.13 13:40:04 ERROR                                                                                ^[0m
+2023.02.13 13:40:04 INFO  [info] loading settings for project sbt-tutorial from build.sbt ...[0m
+2023.02.13 13:40:04 INFO  [info] set current project to sbt-tutorial (in build file:/Users/coreycosman/sbt-tutorial/)[0m
+2023.02.13 13:40:06 INFO  [success] Generated .bloop/sbt-tutorial-test.json[0m
+2023.02.13 13:40:06 INFO  [success] Generated .bloop/sbt-tutorial.json[0m
+2023.02.13 13:40:06 INFO  [success] Total time: 1 s, completed 13-Feb-2023 1:40:06 PM[0m
+2023.02.13 13:40:06 INFO  time: ran 'sbt bloopInstall' in 24s[0m
+2023.02.13 13:40:06 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 13:40:06 INFO  Shut down connection with build server.[0m
+2023.02.13 13:40:06 INFO  Shut down connection with build server.[0m
+2023.02.13 13:40:06 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:40:06 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:40:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:40:06 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:40:06 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:40:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:40:06 INFO  time: Connected to build server in 0.25s[0m
+2023.02.13 13:40:06 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 13:40:06 INFO  time: Imported build in 0.14s[0m
+2023.02.13 13:40:08 INFO  time: indexed workspace in 1.28s[0m
+2023.02.13 13:40:10 INFO  time: code lens generation in 1.19s[0m
+Feb 13, 2023 1:40:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2962
+2023.02.13 13:42:59 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:44:09 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:50:29 INFO  running '/Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/y7/3j5tf37j5mbfxsbsbkpsqpqh0000gn/T/metals1322136855950642114/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.13 13:50:31 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.13 13:50:33 INFO  [info] loading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+2023.02.13 13:50:35 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+2023.02.13 13:50:37 INFO  [info] loading settings for project sbt-tutorial-build from metals.sbt ...[0m
+2023.02.13 13:50:37 INFO  [info] loading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+2023.02.13 13:50:41 INFO  [success] Generated .bloop/sbt-tutorial-build.json[0m
+2023.02.13 13:50:41 INFO  [success] Total time: 4 s, completed 13-Feb-2023 1:50:42 PM[0m
+2023.02.13 13:50:43 INFO  [info] loading settings for project sbt-tutorial from build.sbt ...[0m
+2023.02.13 13:50:43 INFO  [info] set current project to sbt-tutorial (in build file:/Users/coreycosman/sbt-tutorial/)[0m
+2023.02.13 13:50:44 INFO  [success] Generated .bloop/sbt-tutorial-test.json[0m
+2023.02.13 13:50:44 INFO  [success] Generated .bloop/sbt-tutorial.json[0m
+2023.02.13 13:50:44 INFO  [success] Total time: 1 s, completed 13-Feb-2023 1:50:44 PM[0m
+2023.02.13 13:50:44 INFO  time: ran 'sbt bloopInstall' in 15s[0m
+2023.02.13 13:50:44 INFO  Disconnecting from Bloop session...[0m
+2023.02.13 13:50:44 INFO  Shut down connection with build server.[0m
+2023.02.13 13:50:44 INFO  Shut down connection with build server.[0m
+2023.02.13 13:50:44 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:50:44 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:50:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:50:44 INFO  Attempting to connect to the build server...[0m
+2023.02.13 13:50:44 INFO  Bloop uses /Users/coreycosman/Library/Caches/Coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u292b10.tar.gz/jdk8u292-b10/Contents/Home defined at /Users/coreycosman/.bloop/bloop.json[0m
+2023.02.13 13:50:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/coreycosman/sbt-tutorial/project/.metals/bsp.trace.json or /Users/coreycosman/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.02.13 13:50:44 INFO  time: Connected to build server in 0.27s[0m
+2023.02.13 13:50:44 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.13 13:50:44 INFO  time: Imported build in 0.12s[0m
+2023.02.13 13:50:45 INFO  time: indexed workspace in 0.63s[0m
+Feb 13, 2023 1:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3621
+Feb 13, 2023 1:56:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3741
+Feb 13, 2023 1:56:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3743
+Feb 13, 2023 1:56:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3745
+2023.02.13 13:56:00 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:56:28 INFO  skipping build import with status 'Dismissed'[0m
+Feb 13, 2023 1:57:08 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 43
+java.lang.ArrayIndexOutOfBoundsException: 43
+	at scala.reflect.internal.util.BatchSourceFile.findLine$1(SourceFile.scala:201)
+	at scala.reflect.internal.util.BatchSourceFile.offsetToLine(SourceFile.scala:204)
+	at scala.meta.internal.pc.MetalsGlobal$XtensionPositionMetals.toPos(MetalsGlobal.scala:619)
+	at scala.meta.internal.pc.MetalsGlobal$XtensionPositionMetals.toLsp(MetalsGlobal.scala:632)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.collect(PcDocumentHighlightProvider.scala:18)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.collect(PcDocumentHighlightProvider.scala:8)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:275)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$18(PcCollector.scala:370)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:370)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$13(PcCollector.scala:328)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:328)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$18(PcCollector.scala:370)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:370)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$13(PcCollector.scala:328)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:328)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$18(PcCollector.scala:370)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:370)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$13(PcCollector.scala:328)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:328)
+	at scala.meta.internal.pc.PcCollector.$anonfun$result$13(PcCollector.scala:328)
+	at scala.collection.LinearSeqOptimized.foldLeft(LinearSeqOptimized.scala:126)
+	at scala.collection.LinearSeqOptimized.foldLeft$(LinearSeqOptimized.scala:122)
+	at scala.collection.immutable.List.foldLeft(List.scala:91)
+	at scala.meta.internal.pc.PcCollector.traverse$1(PcCollector.scala:328)
+	at scala.meta.internal.pc.PcCollector.result(PcCollector.scala:373)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.highlights(PcDocumentHighlightProvider.scala:25)
+
+Feb 13, 2023 1:57:26 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value sampleTask is not a method
+scala.ScalaReflectionException: value sampleTask is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:57:29 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value sampleTask is not a method
+scala.ScalaReflectionException: value sampleTask is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:57:29 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value sampleTask is not a method
+scala.ScalaReflectionException: value sampleTask is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+Feb 13, 2023 1:57:29 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:30 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 1:57:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4076
+Feb 13, 2023 1:57:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: value sampleTask is not a method
+scala.ScalaReflectionException: value sampleTask is not a method
+	at scala.reflect.api.Symbols$SymbolApi.asMethod(Symbols.scala:240)
+	at scala.reflect.api.Symbols$SymbolApi.asMethod$(Symbols.scala:234)
+	at scala.reflect.internal.Symbols$SymbolContextApiImpl.asMethod(Symbols.scala:100)
+	at scala.tools.nsc.typechecker.ContextErrors$TyperContextErrors$TyperErrorGen$.MissingArgsForMethodTpeError(ContextErrors.scala:682)
+	at scala.tools.nsc.typechecker.Typers$Typer.cantAdapt$1(Typers.scala:913)
+	at scala.tools.nsc.typechecker.Typers$Typer.instantiateToMethodType$1(Typers.scala:948)
+	at scala.tools.nsc.typechecker.Typers$Typer.adapt(Typers.scala:1229)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5799)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6(Typers.scala:3294)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$6$adapted(Typers.scala:3291)
+	at scala.Option$WithFilter.foreach(Option.scala:407)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4(Typers.scala:3291)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$4$adapted(Typers.scala:3289)
+	at scala.reflect.internal.Scopes$Scope.foreach(Scopes.scala:435)
+	at scala.tools.nsc.typechecker.Typers$Typer.addSynthetics$1(Typers.scala:3289)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2501)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$104(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5750)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1889)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5707)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.PcCollector.<init>(PcCollector.scala:21)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider.<init>(PcDocumentHighlightProvider.scala:11)
+
+2023.02.13 13:58:25 INFO  skipping build import with status 'Dismissed'[0m
+2023.02.13 13:58:48 INFO  skipping build import with status 'Dismissed'[0m
+Feb 13, 2023 2:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///Users/coreycosman/sbt-tutorial/project/plugins.sbt",
+        "type": 1
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.io.IOException: Is a directory
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.read(FileDispatcherImpl.java:46)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:159)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at java.nio.file.Files.read(Files.java:3105)
+	at java.nio.file.Files.readAllBytes(Files.java:3158)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1502)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1501)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1501)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1435)
+	... 15 more
+
+Feb 13, 2023 2:08:00 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 13, 2023 2:08:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: 
+  
+     while compiling: jar:file:///Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2-sources.jar!/sbt/Plugins.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.17
+    compiler version: version 2.12.17
+  reconstructed args: -deprecation -Wconf:cat=unused-nowarn:s -Wconf:cat=deprecation:w -Wconf:cat=deprecation:ws -Wconf:cat=feature:ws -Wconf:cat=optimizer:ws -classpath /Users/coreycosman/sbt-tutorial/project/.bloop/sbt-tutorial-build/bloop-bsp-clients-classes/classes-Metals-4C01KbhLTBGrqw6UnIRrmg==:/Users/coreycosman/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.7.4/semanticdb-javac-0.7.4.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/1.8.2/sbt-1.8.2.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-library.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.6/sbt-bloop-1.5.6.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.8.0/io_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.5.5/bloop-config_2.12-1.5.5.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.8.2/logic_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.8.2/actions_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.8.2/main-settings_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.8.2/run_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.8.2/command_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.8.2/collections_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.8.2/scripted-plugin_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_2.12/1.8.2/zinc-lm-integration_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.8.2/util-logging_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.1/launcher-interface-1.4.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/lm-coursier-shaded_2.12/2.0.15/lm-coursier-shaded_2.12-2.0.15.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.1/log4j-slf4j-impl-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.8.0/librarymanagement-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.8.0/librarymanagement-ivy_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.8.0/compiler-interface-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile_2.12/1.8.0/zinc-compile_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.9/file-tree-views-2.1.9.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.12.0/jna-5.12.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.0/jna-platform-5.12.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.8.2/util-relation_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.8.2/completion_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.8.2/task-system_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.8.2/tasks_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.8.2/testing_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_2.12/1.8.2/util-tracking_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.9.1/sjson-new-scalajson_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.8.0/zinc-classpath_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.8.0/zinc-apiinfo_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.8.0/zinc_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.8.2/core-macros_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.8.2/util-cache_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.8.2/util-control_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.8.2/protocol_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.9.1/sjson-new-core_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.8.2/util-position_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.8.0/zinc-compile-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.8.2/util-interface-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493/jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jansi/3.19.0/jline-terminal-jansi-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-reflect.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.9.0/scala-collection-compat_2.12-2.9.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-compiler.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_2.12/0.7.0/gigahorse-apache-http_2.12-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a8f9eb5bf09d0539ea3658a2c2d4e09755b5133e/ivy-2.3.0-sbt-a8f9eb5bf09d0539ea3658a2c2d4e09755b5133e.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.19.0/jline-builtins-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-agent/1.8.2/test-agent-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_2.12/0.9.1/shaded-jawn-parser_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.8.0/compiler-bridge_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.8.0/zinc-classfile_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.8.0/zinc-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.8.0/zinc-persist_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.9.1/sjson-new-murmurhash_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.6.2/ipcsocket-1.6.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.2/scala-parser-combinators_2.12-1.1.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/openhft/zero-allocation-hashing/0.10.1/zero-allocation-hashing-0.10.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.1.0/jansi-2.1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.7.0/gigahorse-core_2.12-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpasyncclient/0.7.0/shaded-apache-httpasyncclient-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.19.0/jline-style-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.8.0/zinc-persist-core-assembly-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.5.1/sbinary_2.12-0.5.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.6.1/ssl-config-core_2.12-0.6.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar -Xplugin-require:semanticdb -Xsource:3.0.0 -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(Plugins)
+       tree position: line 160 of jar:file:///Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2-sources.jar!/sbt/Plugins.scala
+            tree tpe: Plugins.type
+              symbol: object Plugins
+   symbol definition: object Plugins (a ModuleSymbol)
+      symbol package: <empty>
+       symbol owners: object Plugins
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+   157 sealed trait PluginsFunctions {
+   158 
+   159   /** [[Plugins]] instance that doesn't require any [[Plugins]]s. */
+   160   def empty: Plugins = Plugins.Empty
+   161 
+   162   /** This plugin is activated when all required plugins are present. */
+   163   def allRequirements: PluginTrigger = AllRequirements
+java.lang.AssertionError: assertion failed: 
+  
+     while compiling: jar:file:///Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2-sources.jar!/sbt/Plugins.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.17
+    compiler version: version 2.12.17
+  reconstructed args: -deprecation -Wconf:cat=unused-nowarn:s -Wconf:cat=deprecation:w -Wconf:cat=deprecation:ws -Wconf:cat=feature:ws -Wconf:cat=optimizer:ws -classpath /Users/coreycosman/sbt-tutorial/project/.bloop/sbt-tutorial-build/bloop-bsp-clients-classes/classes-Metals-4C01KbhLTBGrqw6UnIRrmg==:/Users/coreycosman/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.7.4/semanticdb-javac-0.7.4.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt/1.8.2/sbt-1.8.2.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-library.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.6/sbt-bloop-1.5.6.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.8.0/io_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.5.5/bloop-config_2.12-1.5.5.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.8.2/logic_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.8.2/actions_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.8.2/main-settings_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.8.2/run_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.8.2/command_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.8.2/collections_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.8.2/scripted-plugin_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_2.12/1.8.2/zinc-lm-integration_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.8.2/util-logging_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.4.1/launcher-interface-1.4.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/lm-coursier-shaded_2.12/2.0.15/lm-coursier-shaded_2.12-2.0.15.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.1/log4j-slf4j-impl-2.17.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.8.0/librarymanagement-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.8.0/librarymanagement-ivy_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.8.0/compiler-interface-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile_2.12/1.8.0/zinc-compile_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.9/file-tree-views-2.1.9.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.12.0/jna-5.12.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.0/jna-platform-5.12.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.8.2/util-relation_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.8.2/completion_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.8.2/task-system_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.8.2/tasks_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.8.2/testing_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-tracking_2.12/1.8.2/util-tracking_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.9.1/sjson-new-scalajson_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.8.0/zinc-classpath_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.8.0/zinc-apiinfo_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.8.0/zinc_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.8.2/core-macros_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.8.2/util-cache_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.8.2/util-control_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.8.2/protocol_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.9.1/sjson-new-core_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.8.2/util-position_2.12-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.8.0/zinc-compile-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.8.2/util-interface-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493/jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jansi/3.19.0/jline-terminal-jansi-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-reflect.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.9.0/scala-collection-compat_2.12-2.9.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/coreycosman/.sbt/boot/scala-2.12.17/lib/scala-compiler.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-apache-http_2.12/0.7.0/gigahorse-apache-http_2.12-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a8f9eb5bf09d0539ea3658a2c2d4e09755b5133e/ivy-2.3.0-sbt-a8f9eb5bf09d0539ea3658a2c2d4e09755b5133e.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-builtins/3.19.0/jline-builtins-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-agent/1.8.2/test-agent-1.8.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_2.12/0.9.1/shaded-jawn-parser_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.8.0/compiler-bridge_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.8.0/zinc-classfile_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.8.0/zinc-core_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.8.0/zinc-persist_2.12-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.9.1/sjson-new-murmurhash_2.12-0.9.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.6.2/ipcsocket-1.6.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.2/scala-parser-combinators_2.12-1.1.2.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/openhft/zero-allocation-hashing/0.10.1/zero-allocation-hashing-0.10.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.1.0/jansi-2.1.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.7.0/gigahorse-core_2.12-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/shaded-apache-httpasyncclient/0.7.0/shaded-apache-httpasyncclient-0.7.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-style/3.19.0/jline-style-3.19.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.8.0/zinc-persist-core-assembly-1.8.0.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.5.1/sbinary_2.12-0.5.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.6.1/ssl-config-core_2.12-0.6.1.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar -Xplugin-require:semanticdb -Xsource:3.0.0 -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(Plugins)
+       tree position: line 160 of jar:file:///Users/coreycosman/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.8.2/main_2.12-1.8.2-sources.jar!/sbt/Plugins.scala
+            tree tpe: Plugins.type
+              symbol: object Plugins
+   symbol definition: object Plugins (a ModuleSymbol)
+      symbol package: <empty>
+       symbol owners: object Plugins
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+   157 sealed trait PluginsFunctions {
+   158 
+   159   /** [[Plugins]] instance that doesn't require any [[Plugins]]s. */
+   160   def empty: Plugins = Plugins.Empty
+   161 
+   162   /** This plugin is activated when all required plugins are present. */
+   163   def allRequirements: PluginTrigger = AllRequirements
+	at scala.reflect.internal.SymbolTable.throwAssertionError(SymbolTable.scala:185)
+	at scala.reflect.internal.SymbolTable.assert(SymbolTable.scala:162)
+	at scala.reflect.internal.Symbols$Symbol.rawInfo(Symbols.scala:1617)
+	at scala.tools.nsc.typechecker.Typers$Typer.isStale(Typers.scala:525)
+	at scala.tools.nsc.typechecker.Typers$Typer.reallyExists(Typers.scala:517)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedSelect$1(Typers.scala:5100)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedSelectOrSuperCall$1(Typers.scala:5201)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5741)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:6001)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5705)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:2023)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedClassDef(Typers.scala:1836)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5706)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:5849)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3341)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5417)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5709)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5785)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$TyperPhase.apply(Analyzer.scala:114)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1341)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1334)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:666)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:33)
+
+Feb 13, 2023 2:08:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///Users/coreycosman/sbt-tutorial/project/plugins.sbt",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /Users/coreycosman/sbt-tutorial/project/plugins.sbt
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:1502)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:1501)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:1501)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:1435)
+	... 15 more
+
+2023.02.13 14:09:10 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/plugins.sbt[0m
+2023.02.13 14:09:10 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/plugins.sbt[0m
+2023.02.13 14:09:22 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/plugins.sbt[0m
+2023.02.13 14:09:22 INFO  skipping build import with status 'Dismissed'[0m
+Feb 13, 2023 2:11:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4409
+2023.02.13 14:11:42 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/plugins.sbt[0m
+2023.02.13 14:13:19 WARN  no build target for: /Users/coreycosman/sbt-tutorial/project/plugins.sbt[0m
+2023.02.13 14:13:19 INFO  skipping build import with status 'Dismissed'[0m

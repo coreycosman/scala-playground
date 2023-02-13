@@ -1,0 +1,92 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(reload, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(onFailure loadFailed, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(loadp, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mwelcome to sbt 1.8.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+[0m[[0m[0mdebug[0m] [0m[0m                        Load.defaultLoad until apply took 10.545625ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                        Load.loadUnit: plugins took 18.316875ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                        Load.loadUnit: defsScala took 0.001542ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Scanning directory /Users/coreycosman/sbt-tutorial/project/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                          Load.loadUnit: mkEval took 0.359125ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Found non-root projects [0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in /Users/coreycosman/sbt-tutorial/project/project, returning: ()[0m
+[0m[[0m[0mdebug[0m] [0m[0mdeducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))[0m
+[0m[[0m[0mdebug[0m] [0m[0m  :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPlugins.deducer#function took 3.23525 ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading settings for project sbt-tutorial-build-build from metals.sbt ...[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                            Load.resolveProject(sbt-tutorial-build-build) took 3.256125ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                          Load.loadTransitive: finalizeProject(Project(id sbt-tutorial-build-build, base: /Users/coreycosman/sbt-tutorial/project/project, plugins: List(<none>))) took 8.225959ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in /Users/coreycosman/sbt-tutorial/project/project, returning: (sbt-tutorial-build-build)[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                        Load.loadUnit: loadedProjectsRaw took 36.150791ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                        Load.loadUnit: cleanEvalClasses took 1.367833ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                      Load.loadUnit(file:/Users/coreycosman/sbt-tutorial/project/project/, ...) took 56.213917ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: load took 58.355958ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: resolveProjects took 0.705542ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: finalTransforms took 13.482625ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: config.delegates took 1.034291ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: Def.make(settings)... took 81.665875ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: structureIndex took 11.190375ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.apply: mkStreams took 0.00175ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading project definition from /Users/coreycosman/sbt-tutorial/project/project[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                  Load.loadUnit: plugins took 381.547167ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                  Load.loadUnit: defsScala took 0.002375ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Scanning directory /Users/coreycosman/sbt-tutorial/project[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.loadUnit: mkEval took 0.421625ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Found non-root projects [0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in /Users/coreycosman/sbt-tutorial/project, returning: ()[0m
+[0m[[0m[0mdebug[0m] [0m[0mdeducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(bloop.integrations.sbt.BloopPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(bloop.integrations.sbt.BloopPlugin))))[0m
+[0m[[0m[0mdebug[0m] [0m[0m  :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,bloop.integrations.sbt.BloopPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPlugins.deducer#function took 4.82875 ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading settings for project sbt-tutorial-build from metals.sbt ...[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                      Load.resolveProject(sbt-tutorial-build) took 31.077417ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                    Load.loadTransitive: finalizeProject(Project(id sbt-tutorial-build, base: /Users/coreycosman/sbt-tutorial/project, plugins: List(<none>))) took 37.481625ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in /Users/coreycosman/sbt-tutorial/project, returning: (sbt-tutorial-build)[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                  Load.loadUnit: loadedProjectsRaw took 62.043583ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                  Load.loadUnit: cleanEvalClasses took 1.335791ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                                Load.loadUnit(file:/Users/coreycosman/sbt-tutorial/project/, ...) took 446.13775ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: load took 450.720042ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: resolveProjects took 0.512916ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: finalTransforms took 14.660583ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: config.delegates took 1.3545ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: Def.make(settings)... took 94.209291ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: structureIndex took 11.382ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.apply: mkStreams took 0.002042ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading project definition from /Users/coreycosman/sbt-tutorial/project[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: bloopInstall[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/sbt-tutorial-build.json[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 13-Feb-2023 1:36:29 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0m                            Load.loadUnit: plugins took 1159.619125ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m                            Load.loadUnit: defsScala took 0.020208ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Scanning directory /Users/coreycosman/sbt-tutorial[0m
+[0m[[0m[0mdebug[0m] [0m[0m                              Load.loadUnit: mkEval took 0.751209ms[0m
+[0m[[0m[31merror[0m] [0m[0mType error in expression[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(loadFailed, None, None)[0m
+[0m[[0m[33mwarn[0m] [0m[0mProject loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+[0m[[0m[33mwarn[0m] [0m[0mProject loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m

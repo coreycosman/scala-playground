@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala:10:40: not found: value LocalDate[0m
+[0m[[0m[31merror[0m] [0m[0m    val t1 = Task("Write blog on SBT", LocalDate.now(), Seq("blogging"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/coreycosman/sbt-tutorial/src/test/task-manager-spec.scala:11:48: not found: value LocalDate[0m
+[0m[[0m[31merror[0m] [0m[0m    val t2 = Task("Write a factorial program", LocalDate.now().plusDays(1), Seq("coding"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
